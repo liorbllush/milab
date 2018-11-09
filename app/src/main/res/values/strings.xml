@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EXERCISE_02</string>
+    <string name="title_activity_stark">StarkActivity</string>
+    <string name="title_activity_lannister">LannisterActivity</string>
+</resources>
